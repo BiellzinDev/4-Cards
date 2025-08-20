@@ -10,7 +10,7 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
-## The challenge
+## The challenge: https://biellzindev.github.io/4-Cards/
 
 Your challenge is to build out this feature section and get it looking as close to the design as possible.
 
