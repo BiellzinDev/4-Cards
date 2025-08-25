@@ -1,8 +1,4 @@
-
-## The challenge: 
-# 🚀 Projeto ser Digital
-
-Repositório criado durante o curso de **Desenvolvimento Web**, com o objetivo de reunir e demonstrar componentes web reutilizáveis desenvolvidos em HTML e CSS.
+# 🚀 Projeto 4-Cards
 
 Este projeto serve como um portfólio prático dos conhecimentos adquiridos ao longo dos estudos, para testar novas ideias e boas práticas de desenvolvimento frontend.
 
