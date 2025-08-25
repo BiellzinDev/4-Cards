@@ -1,6 +1,6 @@
 # 🚀 Projeto 4-Cards
 
-Este projeto serve como um portfólio prático dos conhecimentos adquiridos ao longo dos estudos, para testar novas ideias e boas práticas de desenvolvimento frontend.
+Este projeto serve como um portfólio prático dos conhecimentos adquiridos ao longo dos estudos, para testar novas ideias e boas práticas de desenvolvimento frontend. Onde ao colocar em pratica pude sentir as dificuldades para alinhamento dos itens e tornar a página responsiva.
 
 🔗 **Veja o projeto online**  
 [👉 Acesse a demonstração](https://biellzindev.github.io/4-Cards/)
